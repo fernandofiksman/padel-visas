@@ -1,0 +1,11 @@
+node_modules
+.npm-cache
+.next
+_archive-unused-assets
+_duplicate-components-from-first-attempt
+out
+dist
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
